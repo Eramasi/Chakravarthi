@@ -1,0 +1,4 @@
+Welcome to java  programming language 
+Java is a high level programming language
+java is platform independent 
+Java supports object oriented principles 
